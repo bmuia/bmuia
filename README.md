@@ -42,8 +42,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/bmuia/bmuia/output/snake.svg" alt="Snake animation" />
 
 ###
