@@ -1,6 +1,4 @@
----
-
-<h1 align="center">Heyy! 👋🏽 I'm Belam</h1>
+<h1 align="center">Heyy! 👋📽 I'm Belam</h1>
 <h3 align="center">✨ Fullstack Dev | Django Wizard | React Artisan | Code with Soul</h3>
 
 <p align="center">
@@ -28,21 +26,42 @@ quote: "Code with energy. Deploy with love."
 
 ---
 
-### 🛠️ Tools & Stack
+### 🛠️ The Arsenal
 
+#### 🖼️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,django,js,ts,html,css,tailwind,python,postgres,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind" />
+</p>
+
+#### 🧩 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,python,nodejs" />
+</p>
+
+#### 💄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+#### 🚀 Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify" />
+</p>
+
+#### 🛠️ Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-### 📣 Find me in the wild:
+### 🌐 Signal Boost Me:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/belam-muia-a690b326a" target="_blank">
     <img src="https://img.shields.io/badge/Belam%20Muia-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:belammuia0@gmail.com">
     <img src="https://img.shields.io/badge/Email-me-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/bmuia" target="_blank">
@@ -52,42 +71,37 @@ quote: "Code with energy. Deploy with love."
 
 ---
 
-### 📈 GitHub Power Levels:
+### 📊 GitHub Power Levels:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmuia&show_icons=true&theme=radical&hide_border=true" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmuia&theme=radical&hide_border=true" />
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=bmuia&show_icons=true&theme=radical&hide_border=true" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=bmuia&theme=radical&hide_border=true" /></td>
+    </tr>
+  </table>
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bmuia&layout=compact&theme=radical&hide_border=true" />
 </div>
 
 ---
 
-### 🎧 Spotify Vibes (Live Now)
+### 🎷 Spotify Vibes (Live Now)
 
-> Now playing: 
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z6h5rlydjb35bj47q3ap6z4iyq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
-
-### 📰 My Dev Blog Feed
-> Latest articles:
+> Now playing:
 
 <p align="center">
-  <img src="https://github-readme-medium.vercel.app/?username=bage316&limit=3" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzuooos5wpno2sevy5jvgzmk2m&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31rzuooos5wpno2sevy5jvgzmk2m&cover_image=true&theme=default&show_offline=false&background_color=931a1a&interchange=true&bar_color_cover=true&bar_color=0d270c" />
+  </a>
 </p>
-
 
 ---
-
 
 ### ⚡ Vibes Only
 
 > "Some people chase the bug...  
-> I chase the *flow state*."  
+> I chase the *flow state*."
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
@@ -95,9 +109,9 @@ quote: "Code with energy. Deploy with love."
 
 ---
 
-### 📊 Bonus Stats (Dynamic Graph)
+### 📊 GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmuia&theme=react-dark&hide_border=true)
+[![bmuia's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bmuia&theme=high-contrast)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -106,5 +120,3 @@ quote: "Code with energy. Deploy with love."
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=bmuia.readme-profile" />
 </p>
-
----
