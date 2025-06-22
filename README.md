@@ -1,3 +1,5 @@
+---
+
 <h1 align="center">Heyy! 👋🏽 I'm Belam</h1>
 <h3 align="center">✨ Fullstack Dev | Django Wizard | React Artisan | Code with Soul</h3>
 
@@ -11,6 +13,7 @@
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="coding-gif" />
 </p>
 
+---
 
 ### 🧠 About Me:
 
@@ -61,6 +64,26 @@ quote: "Code with energy. Deploy with love."
 
 ---
 
+### 🎧 Spotify Vibes (Live Now)
+
+> Now playing: 
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31z6h5rlydjb35bj47q3ap6z4iyq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" />
+</p>
+
+
+### 📰 My Dev Blog Feed
+> Latest articles:
+
+<p align="center">
+  <img src="https://github-readme-medium.vercel.app/?username=bage316&limit=3" />
+</p>
+
+
+---
+
+
 ### ⚡ Vibes Only
 
 > "Some people chase the bug...  
@@ -70,4 +93,18 @@ quote: "Code with energy. Deploy with love."
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
+---
 
+### 📊 Bonus Stats (Dynamic Graph)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=bmuia&theme=react-dark&hide_border=true)
+
+---
+
+### 👁️ Visitors Counter
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bmuia.readme-profile" />
+</p>
+
+---
