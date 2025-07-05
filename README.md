@@ -8,4 +8,4 @@ Fullstack Engineer · Django & React · Builder at heart.
 
 > Code with energy. Deploy with love.
 
-[LinkedIn](https://www.linkedin.com/in/belam-muia-a690b326a) • [Portfolio](#) • [Email](mailto:belammuia0@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/belam-muia-a690b326a) • [Portfolio](http://portfolio-snowy-one-22.vercel.app/) • [Email](mailto:belammuia0@gmail.com)
