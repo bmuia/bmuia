@@ -28,7 +28,7 @@
 
 ### 🌐 Let's Connect
 <p align="center">
-  <a href="https://linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/belam-muia-a690b326a/)" target="_blank">
+  <a href="https://www.linkedin.com/in/belam-muia-a690b326a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Belam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
