@@ -1,37 +1,43 @@
-# Hi, I'm Belam Muia 👋
-
-**Backend Engineer** | **Full-Stack Developer focused on robust systems and clean code.**
+<h1 align="center">✨ Hey there, I'm Belam 👋</h1>
+<p align="center">Full-stack developer | Builder of things that *actually* work | Code meets creativity</p>
 
 ---
 
-## Skills
+### 🧰 Tech Toolbox
+- **Frontend:** React, HTML/CSS, JavaScript
+- **Backend:** Django, RESTful APIs
+- **Database & DevOps:** PostgreSQL, Docker
+
+### 💡 What Lights Me Up
+- Python (from scripts to systems)
+- Automation that saves time and sanity
+- Real-world projects that solve real problems
+
+### 🚀 On the Launchpad
+- Clean architecture & scalable design
+- Smarter API development
+- TypeScript (yes, I'm warming up to it 👀)
+
+---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,python,django,postgresql,docker,git,aws,kubernetes&theme=light" alt="My Backend & Full-Stack Tech Stack" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bmuia&show_icons=true&theme=tokyonight" alt="bmuia's GitHub stats" width="400"/>
 </p>
 
 ---
 
-## My Work
-
-* **[User Management API/System](https://github.com/bmuia/user-management-frontend.git)**
-    > Architecting scalable user management with Django & PostgreSQL.
-* **[Resume Analyzer API/Service](https://github.com/bmuia/resume_reviewer_frontend.git)**
-    > Building intelligent backend services for resume processing.
-
----
-
-## Activity
-
+### 🌐 Let's Connect
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bmuia&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Belam Muia's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmuia&theme=default&hide_border=true" alt="Belam Muia's GitHub Streak" />
+  <a href="https://linkedin.com/in/your_linkedin_profile](https://www.linkedin.com/in/belam-muia-a690b326a/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Belam-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## Connect
+### 🧭 Explore My GitHub
+> Dive into projects that blend logic with creativity.  
+> Whether you're here to learn, collaborate, or just browse—you're welcome.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/belam-muia-a690b326a)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=netlify&logoColor=white)](https://bmuia.netlify.app/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:belammmuia0@gmail.com)
+---
+
