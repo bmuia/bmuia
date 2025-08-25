@@ -26,6 +26,12 @@
 
 ---
 
+### 📊 Weekly Development Breakdown  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/belam-muia-a690b326a/" target="_blank">
@@ -35,12 +41,6 @@
 
 ---
 
----
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
----
-
 ### 🧭 Explore My GitHub
 > Dive into backend projects, Python experiments, and learning-driven code.  
 > Feedback, collaboration, or questions are always welcome.
-
