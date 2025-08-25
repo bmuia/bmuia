@@ -1,22 +1,33 @@
-<h1 align="center">✨ Hey there, I'm Belam 👋</h1>
-<p align="center">Backend-focused developer | Python & Django enthusiast | Turning code into real solutions</p>
+<h1 align="center">✨ Hey, I'm Belam 👋</h1>
+<p align="center"><strong>Backend-focused developer</strong> | Python & Django enthusiast | Turning code into real solutions</p>
 
 ---
 
 ### 🧰 Tech Toolbox
-- **Backend:** Python, Django, RESTful APIs
-- **Frontend:** React.js, Tailwind CSS (for fullstack flexibility)
-- **Database & DevOps:** PostgreSQL, Docker
+- **Backend:** Python · Django · RESTful APIs
+- **Frontend:** React.js · Tailwind CSS (for fullstack flexibility)
+- **DevOps & Data:** PostgreSQL · Docker · Git
+
+---
 
 ### 💡 What Drives Me
-- Building backend systems that actually work
-- Automating repetitive tasks to save time
-- Hands-on projects that solve real problems
+- Building backend systems that are scalable, clean, and reliable
+- Automating repetitive tasks to save time and reduce friction
+- Creating hands-on projects that solve real-world problems
+
+---
 
 ### 🚀 Current Focus
-- Modular, scalable Python projects (like my web scraper framework)
-- Clean architecture & API design
-- Learning data pipelines & structured data storage (CSV/JSON)
+- Designing modular Python projects (like my web scraper framework)
+- Writing clean, maintainable APIs with smart error handling
+- Exploring data pipelines and structured storage (CSV, JSON)
+
+---
+
+### 🧠 Learning & Growing
+- Diving deeper into clean architecture principles
+- Experimenting with IoT systems and virtual microcontrollers
+- Enhancing my GitHub and portfolio with storytelling & design
 
 ---
 
