@@ -35,6 +35,12 @@
 
 ---
 
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+---
+
 ### 🧭 Explore My GitHub
 > Dive into backend projects, Python experiments, and learning-driven code.  
 > Feedback, collaboration, or questions are always welcome.
+
