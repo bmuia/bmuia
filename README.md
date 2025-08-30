@@ -41,19 +41,19 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 27 August 2025
+From: 05 August 2025 - To: 29 August 2025
 
-Total Time: 76 hrs 29 mins
+Total Time: 80 hrs 23 mins
 
-Python                     40 hrs 48 mins  █████████████▒░░░░░░░░░░░   52.92 %
-JavaScript                 11 hrs 13 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.55 %
-Bash                       2 hrs 58 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Docker                     2 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
-Text                       1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-Markdown                   1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Git Config                 1 hr 34 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Terraform                  40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Other                      37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Python                     41 hrs 7 mins   ████████████▓░░░░░░░░░░░░   50.77 %
+JavaScript                 12 hrs 45 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Docker                     3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Bash                       3 hrs 2 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
+Text                       1 hr 43 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+Git Config                 1 hr 35 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+Markdown                   1 hr 34 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Terraform                  40 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
+Other                      37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 ```
 
 <!--END_SECTION:waka-->
