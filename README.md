@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://twitter.com/muiabelam63982" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="muiabelam63982" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/belam muia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="belam muia" height="30" width="40" /></a>
-<a href="https://medium.com/@bage316" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bage316" height="30" width="40" /></a>
+<a href="https://medium.com/@belammuia0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@belammuia0" height="30" width="40" /></a>
 <a href="https://open.spotify.com/user/31rzuooos5wpno2sevy5jvgzmk2m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="spotify" height="30" width="40" /></a>
 </p>
 
