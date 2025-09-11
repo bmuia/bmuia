@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bmuia" alt="bmuia" /></a> </p>
 
-- 🔭 I’m currently working on [linkUp server](https://github.com/bmuia/linkUp_server.git)
+- 🔭 I’m currently working on [linkUp Server](https://github.com/bmuia/linkUp_server.git)
 
-- 🌱 I’m currently learning **Java, System design, API design patterns**
+- 🌱 I’m currently learning **Java, System design and architecture, API design patterns, Machine Learning and Big Data**
 
 - 👨‍💻 All of my projects are available at [https://belam.vercel.app/](https://belam.vercel.app/)
 
