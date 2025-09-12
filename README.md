@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Configuring Ruby on Rails Email Notifications: A Comprehensive Guide](https://medium.com/@belammuia0/configuring-ruby-on-rails-email-notifications-a-comprehensive-guide-cb58be071bbb?source=rss-c0f408b4f9e0------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
