@@ -81,17 +81,15 @@
   </tr>
 </table>
 
-<h2 style="color:#FFD700;">
-  🏆 Github Stats ⚡
-</h2>
+<h2 style="color:#E6C200;">🏆 Github Stats ⚡</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmuia&show_icons=true&locale=en&layout=compact&title_color=E6C200&text_color=C9A227&icon_color=E6C200&bg_color=0d1117" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=bmuia&show_icons=true&locale=en&title_color=E6C200&text_color=C9A227&icon_color=E6C200&bg_color=0d1117" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bmuia&show_icons=true&locale=en&layout=compact&title_color=FFB86C&text_color=F8F8F2&icon_color=FFB86C&bg_color=2D2A2E" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bmuia&show_icons=true&locale=en&title_color=FFB86C&text_color=F8F8F2&icon_color=FFB86C&bg_color=2D2A2E" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmuia&theme=dark&ring=E6C200&fire=E6C200&currStreakLabel=E6C200&sideNums=C9A227&currStreakNum=E6C200&dates=C9A227&sideLabels=E6C200&background=0d1117" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bmuia&theme=dark&ring=FFB86C&fire=FFB86C&currStreakLabel=FFB86C&sideNums=F8F8F2&currStreakNum=FFB86C&dates=F8F8F2&sideLabels=FFB86C&background=2D2A2E" height="150"/>
 </p>
 
 
